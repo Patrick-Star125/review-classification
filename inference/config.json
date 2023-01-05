@@ -1,0 +1,4 @@
+{
+	"model_path" : ["MindSpore/LSTM_model/sentiment-analysis.ckpt",
+					"MindSpore/LSTM_model/glove.6B.100d.txt"]
+}
