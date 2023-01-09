@@ -1,5 +1,3 @@
-# --rw_path C:\Users\NetPunk\Desktop\dataset\aclImdb_v1.tar.gz --weibo_path C:\Users\NetPunk\Desktop\dataset\glove.6B
-# --rw_path C:\Users\NetPunk\Desktop\LSTM-TakeAway-Review\mindcon_text_classification --weibo_path C:\Users\NetPunk\Desktop\dataset\sgns.weibo.char --epochs 0,40
 import re
 import os
 import mindspore

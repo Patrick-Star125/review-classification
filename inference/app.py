@@ -1,5 +1,3 @@
-# --rw_path C:\Users\NetPunk\Desktop\dataset\aclImdb_v1.tar.gz --weibo_path C:\Users\NetPunk\Desktop\dataset\weibo.6B
-# --rw_path C:\Users\NetPunk\Desktop\LSTM-TakeAway-Review\mindcon_text_classification --weibo_path C:\Users\NetPunk\Desktop\dataset\sgns.weibo.char --model_path C:\Users\NetPunk\Desktop\LSTM-TakeAway-Review\train\save_model\sentiment-analysis.ckpt
 import re
 import os
 import mindspore
