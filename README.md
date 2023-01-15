@@ -6,6 +6,8 @@
 
 本项目基于公开的模型仓库 MindSpore/LSTM 进行二次开发，通过外卖评论数据集进行分类任务。
 
+任务链接：https://xihe.mindspore.cn/competition/text_classification/0/introduction
+
 #### LSTM简介
 在自然语言处理中常用RNN网络，但RNN细胞结构简单，容易在训练中产生梯度消失问题。例如RNN网络在序列较长时，在序列尾部已经基本丢失了序列首部的信息。为了克服这一问题，LSTM(Long short term memory)模型被提出，通过门控机制来控制信息流在每个循环步中的留存和丢弃。下图为LSTM的细胞结构拆解：
 
